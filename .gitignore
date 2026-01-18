@@ -1,0 +1,10 @@
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+database/parking.db
+database/parking.db-journal
+/software/static/snapshots
+__pycache__/
+*.pyc
+software/database/parking.db
+project_stats.json
